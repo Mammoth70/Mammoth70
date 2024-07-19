@@ -1,4 +1,6 @@
-## Hi there
+Hi all.
+I'm a network engineer.
+I post projects that help in my work.
 
 <!--
 **Mammoth70/Mammoth70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
