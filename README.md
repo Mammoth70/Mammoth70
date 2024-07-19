@@ -14,6 +14,7 @@ I post projects that help in my work.
 |     6| С++           |
 |     7| Object Pascal |
 |     8| Java          |
+|     9| Bash Script   |
 
 </details>
 
