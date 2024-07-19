@@ -1,6 +1,21 @@
-Hi all.
+## Hi all.
 I'm a network engineer.
 I post projects that help in my work.
+<details>
+<summary>Languages ​​I had to code in</summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Python        |
+|     2| SQL           |
+|     3| PHP           |
+|     4| JavaScript    |
+|     5| С             |
+|     6| С++           |
+|     7| Object Pascal |
+|     8| Java          |
+
+</details>
 
 <!--
 **Mammoth70/Mammoth70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
