@@ -1,4 +1,4 @@
-## Hi all.
+## Hi.
 I'm a network engineer.
 I post projects that help in my work.
 <!--
